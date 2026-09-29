@@ -1,164 +1,73 @@
-# IoT-Based Smart Temperature Monitoring in Home Balcony Garden
-
-### Sensor-Based Environmental Temperature Monitoring System
+# 🌱 IoT-Based Smart Temperature Sensor in Home Balcony Garden
 
 ## 📌 Project Overview
 
-This academic project focuses on developing an **IoT-based temperature monitoring system** for a home balcony garden.
+This project focuses on an **IoT-based smart environmental monitoring system** designed for monitoring temperature conditions in a home balcony garden.
 
-The system uses a temperature sensor to collect environmental temperature data and supports monitoring of temperature conditions within the garden environment.
-
-The project demonstrates the application of **IoT, sensors, Arduino, and embedded system concepts** for environmental monitoring.
-
-> **Project Status:** ✅ Completed Academic Project
-
----
+The system uses a temperature sensor and IoT concepts to collect and monitor environmental temperature data. The project demonstrates how IoT technology can be applied to support smart and efficient monitoring of small-scale gardening environments.
 
 ## 🎯 Objectives
 
 * Monitor environmental temperature in a home balcony garden.
-* Collect temperature readings using a sensor.
-* Process sensor data using an Arduino-based system.
-* Enable continuous monitoring of temperature conditions.
-* Demonstrate the application of IoT concepts in a home gardening environment.
+* Collect temperature information using a sensor-based system.
+* Apply IoT concepts for environmental monitoring.
+* Explore smart monitoring solutions for home gardening.
+* Demonstrate the application of IoT in everyday environments.
 
----
+## 🧠 System Workflow
 
-## 🧠 System Architecture
+**Temperature Sensor → Data Collection → IoT-Based Monitoring → Environmental Temperature Information**
 
-```text id="w4g0g8"
-Temperature Sensor
-        ↓
-Sensor Data Collection
-        ↓
-Arduino
-        ↓
-Data Processing
-        ↓
-Temperature Monitoring
-        ↓
-Environmental Condition Analysis
-```
+The sensor captures temperature-related environmental information, which can be monitored as part of the smart environmental monitoring system.
 
----
+## 🛠️ Technologies & Concepts
 
-## 🔍 Working Principle
-
-### 1. Temperature Sensing
-
-A temperature sensor is used to measure the surrounding environmental temperature in the balcony garden.
-
-### 2. Data Collection
-
-The sensor continuously provides temperature readings to the Arduino controller.
-
-### 3. Data Processing
-
-The Arduino receives and processes the sensor readings.
-
-### 4. Temperature Monitoring
-
-The processed temperature information is used to monitor the environmental conditions of the garden.
-
----
-
-## 🛠️ Technologies & Components
-
-### Hardware
-
-* Arduino
-* Temperature Sensor
-* Connecting Wires
-* Power Supply
-
-### Software / Concepts
-
-* Arduino Programming
 * Internet of Things (IoT)
+* Temperature Sensor
+* Arduino
 * Sensor-Based Monitoring
 * Embedded Systems
 * Environmental Monitoring
+* Smart Gardening
 
----
+## 🌿 Application
 
-## 🔄 System Workflow
-
-```text id="xq5g1z"
-Environmental Temperature
-          ↓
-      Temperature
-         Sensor
-          ↓
-      Sensor Data
-          ↓
-        Arduino
-          ↓
-     Data Processing
-          ↓
- Temperature Monitoring
-```
-
----
-
-## 🌱 Application
-
-The system demonstrates how IoT-based sensing can be applied to home gardening environments for monitoring environmental conditions.
+The system is designed for a **home balcony garden** and demonstrates the application of IoT technology for environmental monitoring.
 
 Potential applications include:
 
-* Home balcony gardens
+* Home gardening
 * Smart gardening
-* Plant environment monitoring
-* Indoor/outdoor environmental sensing
-* IoT-based agriculture systems
+* Environmental monitoring
+* IoT-based sensor systems
+* Small-scale agricultural monitoring
 
----
+## 📚 Publication
 
-## 📁 Project Structure
+**Published Research Work**
 
-```text id="j2x0ab"
-IoT-Smart-Temperature-Monitoring/
-│
-├── README.md
-├── src/
-├── circuit/
-├── images/
-├── results/
-└── documentation/
-```
+**Title:**
+*IoT-Based Smart Temperature Sensor in Home Balcony Garden*
 
-Arduino source code, circuit diagrams, images, and other supporting materials can be added when available.
+**Publication:**
+IJIRT — International Journal of Innovative Research in Technology
 
----
+The work presents an IoT-based approach for smart environmental temperature monitoring in a home balcony garden.
 
-## 📚 Concepts Demonstrated
+## 📊 Project Status
 
-This project demonstrates practical exposure to:
+**Completed — Published Research Work**
 
-* Internet of Things
-* Arduino
-* Temperature Sensors
-* Sensor Data Collection
-* Embedded Systems
-* Environmental Monitoring
-* IoT-Based Applications
+## 🚀 Future Scope
 
----
+* Integration of additional environmental sensors.
+* Monitoring humidity and other environmental parameters.
+* Development of a centralized IoT monitoring dashboard.
+* Remote monitoring through web or mobile applications.
+* Integration with automated irrigation and smart gardening systems.
 
 ## 👩‍💻 Author
 
 **Karthiyayini S**
-
 M.E. Computer Science and Engineering
-Sri Ramakrishna Institute of Technology
-
-### Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/karthiyayini-s-021a27250
-* GitHub: https://github.com/Karthiyayini-02
-
----
-
-## 📌 Project Note
-
-This project was developed as an academic IoT project to demonstrate sensor-based environmental temperature monitoring using Arduino in a home balcony garden environment.
+Sri Ramakrishna Institute of Technology (SRIT)
